@@ -1,6 +1,6 @@
 .heading{
   text-align: center;
-  color: Fuchsia
+  color: Lightgoldenrodyellow
 }
 
 .aboutme{
@@ -8,6 +8,7 @@
   color: FloralWhite
 }
 .aboutmepara{
+text-align: center;
   color: FloralWhite
 }
 
