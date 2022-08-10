@@ -59,11 +59,12 @@ text-align: center;
 }
 
 .overviewofposition{
-  text-align: center;
+text-align: center;
   color: FloralWhite
 }
 
 .overviewofpositionparagraph{
+text-align: center;
   color: FloralWhite
 }
 
@@ -73,15 +74,76 @@ text-align: center;
 }
 
 .skillsqualificationsparagraph{
+text-align: center;
     color: FloralWhite
 }
+.requirement1{
+  text-align: center;
+      color: FloralWhite
+}
+.requirement2{
+  text-align: center;
+      color: FloralWhite
+}
+.requirement3{
+  text-align: center;
+      color: FloralWhite
+}
+.requirement4{
+  text-align: center;
+      color: FloralWhite
+}
+.requirement5{
+  text-align: center;
+      color: FloralWhite
+}
+.requirement6{
+  text-align: center;
+      color: FloralWhite
+}
+.requirement7{
+  text-align: center;
+      color: FloralWhite
+}
+.requirement8{
+  text-align: center;
+      color: FloralWhite
+}
+.requirement9{
+  text-align: center;
+      color: FloralWhite
+}
+.requirement10{
+  text-align: center;
+      color: FloralWhite
+}
+.requirement11{
+  text-align: center;
+      color: FloralWhite
+}
+.requirement12{
+  text-align: center;
+      color: FloralWhite
+}
+
 
 .skillsihave{
   text-align: center;
-  color: FloralWhite
+      color: FloralWhite
 }
+
 .skillsihaveparagraph{
-  color: FloralWhite
+  text-align: center;
+      color: FloralWhite
+}
+
+.howiplantobuildskills{
+  text-align: center;
+      color: FloralWhite
+}
+.howiplantobuildskillsparagraph{
+  text-align: center;
+      color: FloralWhite
 }
 
 .myprojecttitle{
