@@ -1,7 +1,13 @@
 .heading{
   text-align: center;
+ font-family: 'Courier New', monospace;
   color: Lightgoldenrodyellow
 }
+
+
+
+
+
 
 .aboutme{
   text-align: center;
@@ -17,6 +23,7 @@ text-align: center;
   color: FloralWhite
 }
 .interestinitparagraph{
+text-align: center;
   color: FloralWhite
 }
 
@@ -26,6 +33,7 @@ text-align: center;
 }
 
 .whyichoserimtparagraph{
+text-align: center;
     color: FloralWhite
 }
 
@@ -35,12 +43,14 @@ text-align: center;
 }
 
 .whatexpecttolearnparagraph{
+text-align: center;
   color: FloralWhite
 }
 
 .myidealjobheader{
   text-align: center;
-  color: Fuchsia
+  font-family: 'Courier New', monospace;
+  color: Lightgoldenrodyellow
 }
 
 .linktoidealjob{
@@ -76,7 +86,8 @@ text-align: center;
 
 .myprojecttitle{
   text-align: center;
-  color: Fuchsia
+  font-family: 'Courier New', monospace;
+  color: Lightgoldenrodyellow
 }
 
 .overviewofmyproject{
