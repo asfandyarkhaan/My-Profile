@@ -6,12 +6,90 @@
 
 
 
-a {
-  font-size: 25px;
-  text-decoration: none;
-  color: red;
+.headingofidealjob{
+  text-align: center;
+ font-family: 'Courier New', monospace;
+  color: Lightgoldenrodyellow
 }
 
+
+.Mypersonalprofile{
+  text-align: center;
+ font-family: 'Courier New', monospace;
+  color: Lightgoldenrodyellow
+}
+
+.theresultsoftests{
+  text-align: center;
+    color: FloralWhite
+}
+
+.thelinkstothem{
+  text-align: center;
+    color: FloralWhite
+}
+
+.testresultsheader1{
+  text-align: center;
+ font-family: 'Courier New', monospace;
+  color: Lightgoldenrodyellow
+}
+
+.myerbriggzresultz{
+  text-align: center;
+    color: FloralWhite
+}
+
+.myerbriggsimage{
+  text-align: center;
+}
+
+.learningstylequiz1{
+  text-align: center;
+    color: FloralWhite
+}
+
+.learningstylequizimage{
+  text-align: center;
+}
+
+.learnignstylequizlink{
+  text-align: center;
+  color: FloralWhite
+}
+
+.Creativitytestresult{
+  text-align: center;
+  color: FloralWhite
+}
+
+.creativitytestimage{
+  text-align: center;
+}
+
+.linktocreativitytest{
+  text-align: center;
+}
+
+.whatthetestresultsmeantome{
+  text-align: center;
+  color: FloralWhite
+}
+
+.whatthetestresultsmeantomepara{
+  text-align: center;
+  color: FloralWhite
+}
+
+.howtheyinfluencemeandhowishouldtakeitintoaccount{
+  text-align: center;
+  color: FloralWhite
+}
+
+.howtheyinfluencemeandhowishouldtakeitintoaccountpara{
+  text-align: center;
+  color: FloralWhite
+}
 
 .aboutme{
   text-align: center;
@@ -162,7 +240,9 @@ text-align: center;
 }
 
 .overviewofmyprojectparagraph{
-    color: FloralWhite
+  text-align: center;
+  color: FloralWhite
+
 }
 
 .motivationforproject{
@@ -170,6 +250,7 @@ text-align: center;
   color: FloralWhite
 }
 .motivationforprojectparagraph{
+  text-align: center;
   color: FloralWhite
 }
 .descriptionofproject{
@@ -177,6 +258,7 @@ text-align: center;
   color: FloralWhite
 }
 .descriptionofprojectparagraph{
+  text-align: center;
   color: FloralWhite
 }
 
@@ -185,6 +267,7 @@ text-align: center;
   color: FloralWhite
 }
 .toolsandtechneededparagraph{
+  text-align: center;
   color: FloralWhite
 }
 
@@ -193,6 +276,7 @@ text-align: center;
   color: FloralWhite
 }
 .skillsandotherrequirementsparagraph{
+  text-align: center;
   color: FloralWhite
 }
 .projectoutcome{
@@ -200,5 +284,6 @@ text-align: center;
   color: FloralWhite
 }
 .projectoutcomeparagraph{
+  text-align: center;
   color: FloralWhite
 }
